@@ -1,4 +1,4 @@
-# Mi Rice en Hyprland
+# Rice Hyprland [Neopagano]
 
 Configuración personal en CachyOS con Hyprland, Waybar, Kitty, Rofi y Thunar.
 
